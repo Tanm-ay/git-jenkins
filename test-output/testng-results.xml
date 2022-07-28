@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="10" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-29T01:03:22 IST" name="Suite" finished-at="2022-07-29T01:08:09 IST" duration-ms="286391">
+    <groups>
+    </groups>
+    <test started-at="2022-07-29T01:03:22 IST" name="Test" finished-at="2022-07-29T01:08:09 IST" duration-ms="286391">
+      <class name="com.mindtree.runner.Runner">
+        <test-method is-config="true" signature="extentReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:03:22 IST" name="extentReport" finished-at="2022-07-29T01:03:22 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:03:22 IST" name="newObjects" finished-at="2022-07-29T01:03:22 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="changeLanguage()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:03:22 IST" name="changeLanguage" finished-at="2022-07-29T01:03:56 IST" duration-ms="33585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeLanguage -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:03:56 IST" name="flushReport" finished-at="2022-07-29T01:03:56 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:03:56 IST" name="newObjects" finished-at="2022-07-29T01:03:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="footerPowder()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:03:56 IST" name="footerPowder" finished-at="2022-07-29T01:04:17 IST" duration-ms="20255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerPowder -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:17 IST" name="flushReport" finished-at="2022-07-29T01:04:17 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:17 IST" name="newObjects" finished-at="2022-07-29T01:04:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="liveChat()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:17 IST" name="liveChat" finished-at="2022-07-29T01:04:29 IST" duration-ms="12623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- liveChat -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:29 IST" name="flushReport" finished-at="2022-07-29T01:04:29 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method signature="navigationWash()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:29 IST" name="navigationWash" finished-at="2022-07-29T01:04:46 IST" duration-ms="16951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationWash -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:29 IST" name="newObjects" finished-at="2022-07-29T01:04:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:46 IST" name="flushReport" finished-at="2022-07-29T01:04:46 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:46 IST" name="newObjects" finished-at="2022-07-29T01:04:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="pngDisplay()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:04:46 IST" name="pngDisplay" finished-at="2022-07-29T01:05:02 IST" duration-ms="15411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pngDisplay -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:05:02 IST" name="flushReport" finished-at="2022-07-29T01:05:02 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:05:02 IST" name="newObjects" finished-at="2022-07-29T01:05:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="pngRedirect()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:05:02 IST" name="pngRedirect" finished-at="2022-07-29T01:05:52 IST" duration-ms="49965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pngRedirect -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:05:52 IST" name="flushReport" finished-at="2022-07-29T01:05:52 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:05:52 IST" name="newObjects" finished-at="2022-07-29T01:05:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="promoHome()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:05:52 IST" name="promoHome" finished-at="2022-07-29T01:06:04 IST" duration-ms="12699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- promoHome -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:04 IST" name="flushReport" finished-at="2022-07-29T01:06:04 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:04 IST" name="newObjects" finished-at="2022-07-29T01:06:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="searchText()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:04 IST" name="searchText" finished-at="2022-07-29T01:06:20 IST" duration-ms="15711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchText -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:20 IST" name="flushReport" finished-at="2022-07-29T01:06:20 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method signature="signUpEmailInvalid()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:20 IST" name="signUpEmailInvalid" finished-at="2022-07-29T01:06:54 IST" duration-ms="33999" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.fail(Assert.java:106)
+at com.mindtree.pageobject.SignUpFormPageObject.verifyInvalidAccount(SignUpFormPageObject.java:129)
+at com.mindtree.runner.Runner.signUpEmailInvalid(Runner.java:164)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpEmailInvalid -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:20 IST" name="newObjects" finished-at="2022-07-29T01:06:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:54 IST" name="flushReport" finished-at="2022-07-29T01:06:54 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method signature="signUpValid()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:54 IST" name="signUpValid" finished-at="2022-07-29T01:07:36 IST" duration-ms="41388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpValid -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:06:54 IST" name="newObjects" finished-at="2022-07-29T01:06:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:07:36 IST" name="flushReport" finished-at="2022-07-29T01:07:36 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="newObjects()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:07:36 IST" name="newObjects" finished-at="2022-07-29T01:07:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newObjects -->
+        <test-method signature="tncFooter()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:07:36 IST" name="tncFooter" finished-at="2022-07-29T01:08:09 IST" duration-ms="33261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tncFooter -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:08:09 IST" name="flushReport" finished-at="2022-07-29T01:08:09 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method is-config="true" signature="openReport()[pri:0, instance:com.mindtree.runner.Runner@2ef3eef9]" started-at="2022-07-29T01:08:09 IST" name="openReport" finished-at="2022-07-29T01:08:14 IST" duration-ms="5405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openReport -->
+      </class> <!-- com.mindtree.runner.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
